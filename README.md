@@ -2,6 +2,7 @@
 
 **简体中文** | [English](README_EN.md)
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/automark/fidibpojnjiakkgfhbpfekibdgdgafce?hl=zh-CN&utm_source=ext_sidebar)
 
 AutoMark 是一款支持 Chromium 浏览器（Chrome, Edge, Brave 等）的扩展。它利用大语言模型（OpenAI GPT-4, Google Gemini, DeepSeek 等）来理解您的书签内容，帮助您自动分类、重命名和清理，让书签栏保持井井有条。
 

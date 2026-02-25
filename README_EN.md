@@ -2,6 +2,8 @@
 
 [简体中文](README.md) | **English**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/automark/fidibpojnjiakkgfhbpfekibdgdgafce?hl=en&utm_source=ext_sidebar)
+
 AutoMark is a powerful browser extension for Chromium (Chrome, Edge, Brave, etc.) that uses AI models (OpenAI GPT-4, Google Gemini, DeepSeek, etc.) to intelligently analyze, organize, and clean up your browser bookmarks.
 
 ## ✨ Core Features
